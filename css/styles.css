@@ -7,6 +7,10 @@ body{
     text-align: justify;
     padding: 2% 3% 2% 3%;
 }
+.titulo{
+    text-align: center;
+    font-weight: 700;
+}
 
 #navbar{
     position: fixed;
