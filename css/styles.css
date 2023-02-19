@@ -15,7 +15,8 @@ body{
 #navbar{
     position: fixed;
 }
-.introduccion, .inflacion{
+
+.introduccion, .inflacion, .colombia, .comparacion, .conclusiones{
     width: 90%;
     height: auto;
     padding: 20px;
