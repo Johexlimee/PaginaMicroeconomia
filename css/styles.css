@@ -5,7 +5,7 @@
 body{
     background-image: linear-gradient(225deg, #ffda44 0, #ebdc3c 8.33%, #d3dc36 16.67%, #b9dc34 25%, #9bdb36 33.33%, #78d83a 41.67%, #49d442 50%, #00d04c 58.33%, #00cb5a 66.67%, #00c76a 75%, #00c37b 83.33%, #00bf8e 91.67%, #00bca2 100%);
     text-align: justify;
-    padding: 2% 3% 2% 3%;
+    padding: 2% 3% 5% 3%;
 }
 .titulo{
     text-align: center;
