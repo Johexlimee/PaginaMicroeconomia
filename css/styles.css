@@ -15,6 +15,7 @@ body{
 
 #navbar{
     position: fixed;
+    background-image: radial-gradient(circle at 120.71% 50%, #7ed1a0 0, #73d2aa 10%, #66d3b3 20%, #5ad4bd 30%, #4ed4c6 40%, #42d4d0 50%, #38d4d9 60%, #31d3e2 70%, #30d2ea 80%, #35d1f2 90%, #3fd0f9 100%);
 }
 
 .introduccion, .inflacion, .colombia, .comparacion, .conclusiones{
